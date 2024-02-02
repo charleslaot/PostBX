@@ -1,1 +1,1 @@
-# postbx-frontend
+# PostBX
